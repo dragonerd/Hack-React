@@ -1,2 +1,2 @@
-# Hack React sin Base de datos
+# Hack React
 
